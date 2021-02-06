@@ -1,5 +1,7 @@
 # dadJokes
 
+![Go Tests](https://github.com/smarman85/dadJokes/workflows/Test/badge.svg)
+
 ## Yep, exactly as it sounds. Random dad jokes
 ```base
 Install:
