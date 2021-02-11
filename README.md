@@ -1,6 +1,6 @@
 # dadJokes
 
-![Go Tests](https://github.com/smarman85/dadJokes/workflows/LGTM/badge.svg)
+![Go Tests](https://github.com/smarman85/dadJokes/workflows/Tests-LGTM/badge.svg)
 
 ## Yep, exactly as it sounds. Random dad jokes
 ```base
