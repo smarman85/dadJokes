@@ -45,7 +45,7 @@ func DecodeJson(payload []byte) (string, string) {
 }
 
 func displayJoke(text, id string) {
-	f.Printf("ID:\t%s\nJoke:\t%s", id, text)
+  f.Printf("Joke:\t%s\n\tID:\t%s", id, text)
 }
 
 func GetJoke() {
